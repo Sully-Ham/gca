@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sgbconv.dir/sgbconv.cpp.o -o sgbconv 

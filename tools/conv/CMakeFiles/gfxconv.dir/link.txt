@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gfxconv.dir/gfxconv.cpp.o -o gfxconv 

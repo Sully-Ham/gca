@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sfcconv.dir/sfcconv.cpp.o -o sfcconv 

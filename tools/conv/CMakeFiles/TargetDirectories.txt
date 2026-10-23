@@ -1,0 +1,7 @@
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/gfxconv.dir
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/cgbconv.dir
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/packetize.dir
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/sgbconv.dir
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/sfcconv.dir
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Sulli/OneDrive/Documents/cs240/gca/tools/conv/CMakeFiles/rebuild_cache.dir
